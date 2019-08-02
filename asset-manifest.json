@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/drumpad/static/css/main.0a8c2ad6.chunk.css",
+    "main.js": "/drumpad/static/js/main.3d82b6dd.chunk.js",
+    "main.js.map": "/drumpad/static/js/main.3d82b6dd.chunk.js.map",
+    "runtime~main.js": "/drumpad/static/js/runtime~main.ccb0b8bc.js",
+    "runtime~main.js.map": "/drumpad/static/js/runtime~main.ccb0b8bc.js.map",
+    "static/js/2.2d8b9631.chunk.js": "/drumpad/static/js/2.2d8b9631.chunk.js",
+    "static/js/2.2d8b9631.chunk.js.map": "/drumpad/static/js/2.2d8b9631.chunk.js.map",
+    "index.html": "/drumpad/index.html",
+    "precache-manifest.6ef02da413d221c49489dddd1f12c524.js": "/drumpad/precache-manifest.6ef02da413d221c49489dddd1f12c524.js",
+    "service-worker.js": "/drumpad/service-worker.js",
+    "static/css/main.0a8c2ad6.chunk.css.map": "/drumpad/static/css/main.0a8c2ad6.chunk.css.map",
+    "static/media/Bass-Drop.flac": "/drumpad/static/media/Bass-Drop.9ff277af.flac",
+    "static/media/Bass-Loop-01.flac": "/drumpad/static/media/Bass-Loop-01.2f210dd9.flac",
+    "static/media/Bass-Loop-02.flac": "/drumpad/static/media/Bass-Loop-02.ea10a195.flac",
+    "static/media/Bling-Bling-FX.flac": "/drumpad/static/media/Bling-Bling-FX.2745ee13.flac",
+    "static/media/Bling-Bling-Snare.flac": "/drumpad/static/media/Bling-Bling-Snare.06901c6d.flac",
+    "static/media/Butterfly-Clap-01.flac": "/drumpad/static/media/Butterfly-Clap-01.f93d9015.flac",
+    "static/media/Butterfly-Hat-01.flac": "/drumpad/static/media/Butterfly-Hat-01.792b4c0c.flac",
+    "static/media/Butterfly-Kick-04.flac": "/drumpad/static/media/Butterfly-Kick-04.c38d6963.flac",
+    "static/media/Butterfly-Snare-01.flac": "/drumpad/static/media/Butterfly-Snare-01.b1347a4c.flac",
+    "static/media/Wings-Snap-01.flac": "/drumpad/static/media/Wings-Snap-01.52d45bfa.flac",
+    "static/media/Wings-Vox-01.flac": "/drumpad/static/media/Wings-Vox-01.a8c42a2a.flac",
+    "static/media/Wings-Vox-02.flac": "/drumpad/static/media/Wings-Vox-02.ec750b07.flac"
+  }
+}
