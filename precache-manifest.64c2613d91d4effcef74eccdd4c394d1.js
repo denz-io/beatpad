@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5785329548abb2a5872e3e99d7b577dc",
+    "revision": "23c723033bfa659f4f5e59fc0154f755",
     "url": "/drumpad/index.html"
   },
   {
-    "revision": "2295a464b84dd7b784ef",
-    "url": "/drumpad/static/css/main.0a8c2ad6.chunk.css"
+    "revision": "0c4147945e509e12d7e4",
+    "url": "/drumpad/static/css/main.e431acc2.chunk.css"
   },
   {
-    "revision": "de733c464285703d005c",
-    "url": "/drumpad/static/js/2.2d8b9631.chunk.js"
+    "revision": "603416a7b791fcbb9acf",
+    "url": "/drumpad/static/js/2.5e34d3b3.chunk.js"
   },
   {
-    "revision": "2295a464b84dd7b784ef",
-    "url": "/drumpad/static/js/main.3d82b6dd.chunk.js"
+    "revision": "0c4147945e509e12d7e4",
+    "url": "/drumpad/static/js/main.89d975c0.chunk.js"
   },
   {
     "revision": "25191e1c803b07a4ffd2",
@@ -56,6 +56,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/drumpad/static/media/Butterfly-Snare-01.b1347a4c.flac"
   },
   {
+    "revision": "732111774ee2ce151f40bbcb09863772",
+    "url": "/drumpad/static/media/Perc_Clap.73211177.wav"
+  },
+  {
     "revision": "52d45bfa27ce2e72478567da85bed394",
     "url": "/drumpad/static/media/Wings-Snap-01.52d45bfa.flac"
   },
@@ -66,5 +70,25 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ec750b07b39016d35a11d5e93a96ab50",
     "url": "/drumpad/static/media/Wings-Vox-02.ec750b07.flac"
+  },
+  {
+    "revision": "b834127a41d2b3d76bee1fc562c016ea",
+    "url": "/drumpad/static/media/sound013.b834127a.mp3"
+  },
+  {
+    "revision": "fca20d5a8d57f6c2274540303041674a",
+    "url": "/drumpad/static/media/sound023.fca20d5a.wav"
+  },
+  {
+    "revision": "64046655f352b4909586eec63bdf134b",
+    "url": "/drumpad/static/media/sound033.64046655.wav"
+  },
+  {
+    "revision": "ffee9923213562f14d18de20fb966238",
+    "url": "/drumpad/static/media/vocalDrum_tamborine.ffee9923.wav"
+  },
+  {
+    "revision": "6030f8f09a3e258373b71b3f0bfdbc14",
+    "url": "/drumpad/static/media/vocalDrum_tom2.6030f8f0.wav"
   }
 ]);

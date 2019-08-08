@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/drumpad/static/css/main.0a8c2ad6.chunk.css",
-    "main.js": "/drumpad/static/js/main.3d82b6dd.chunk.js",
-    "main.js.map": "/drumpad/static/js/main.3d82b6dd.chunk.js.map",
+    "main.css": "/drumpad/static/css/main.e431acc2.chunk.css",
+    "main.js": "/drumpad/static/js/main.89d975c0.chunk.js",
+    "main.js.map": "/drumpad/static/js/main.89d975c0.chunk.js.map",
     "runtime~main.js": "/drumpad/static/js/runtime~main.ccb0b8bc.js",
     "runtime~main.js.map": "/drumpad/static/js/runtime~main.ccb0b8bc.js.map",
-    "static/js/2.2d8b9631.chunk.js": "/drumpad/static/js/2.2d8b9631.chunk.js",
-    "static/js/2.2d8b9631.chunk.js.map": "/drumpad/static/js/2.2d8b9631.chunk.js.map",
+    "static/js/2.5e34d3b3.chunk.js": "/drumpad/static/js/2.5e34d3b3.chunk.js",
+    "static/js/2.5e34d3b3.chunk.js.map": "/drumpad/static/js/2.5e34d3b3.chunk.js.map",
     "index.html": "/drumpad/index.html",
-    "precache-manifest.6ef02da413d221c49489dddd1f12c524.js": "/drumpad/precache-manifest.6ef02da413d221c49489dddd1f12c524.js",
+    "precache-manifest.64c2613d91d4effcef74eccdd4c394d1.js": "/drumpad/precache-manifest.64c2613d91d4effcef74eccdd4c394d1.js",
     "service-worker.js": "/drumpad/service-worker.js",
-    "static/css/main.0a8c2ad6.chunk.css.map": "/drumpad/static/css/main.0a8c2ad6.chunk.css.map",
+    "static/css/main.e431acc2.chunk.css.map": "/drumpad/static/css/main.e431acc2.chunk.css.map",
     "static/media/Bass-Drop.flac": "/drumpad/static/media/Bass-Drop.9ff277af.flac",
     "static/media/Bass-Loop-01.flac": "/drumpad/static/media/Bass-Loop-01.2f210dd9.flac",
     "static/media/Bass-Loop-02.flac": "/drumpad/static/media/Bass-Loop-02.ea10a195.flac",
@@ -20,8 +20,14 @@
     "static/media/Butterfly-Hat-01.flac": "/drumpad/static/media/Butterfly-Hat-01.792b4c0c.flac",
     "static/media/Butterfly-Kick-04.flac": "/drumpad/static/media/Butterfly-Kick-04.c38d6963.flac",
     "static/media/Butterfly-Snare-01.flac": "/drumpad/static/media/Butterfly-Snare-01.b1347a4c.flac",
+    "static/media/Perc_Clap.wav": "/drumpad/static/media/Perc_Clap.73211177.wav",
     "static/media/Wings-Snap-01.flac": "/drumpad/static/media/Wings-Snap-01.52d45bfa.flac",
     "static/media/Wings-Vox-01.flac": "/drumpad/static/media/Wings-Vox-01.a8c42a2a.flac",
-    "static/media/Wings-Vox-02.flac": "/drumpad/static/media/Wings-Vox-02.ec750b07.flac"
+    "static/media/Wings-Vox-02.flac": "/drumpad/static/media/Wings-Vox-02.ec750b07.flac",
+    "static/media/sound013.mp3": "/drumpad/static/media/sound013.b834127a.mp3",
+    "static/media/sound023.wav": "/drumpad/static/media/sound023.fca20d5a.wav",
+    "static/media/sound033.wav": "/drumpad/static/media/sound033.64046655.wav",
+    "static/media/vocalDrum_tamborine.wav": "/drumpad/static/media/vocalDrum_tamborine.ffee9923.wav",
+    "static/media/vocalDrum_tom2.wav": "/drumpad/static/media/vocalDrum_tom2.6030f8f0.wav"
   }
 }
