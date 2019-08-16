@@ -32,7 +32,6 @@ const BeatPad = () => {
         let getAudioTarget = document.getElementById(event.keyCode)
         if (getAudioTarget) {
             if (!getAudioTarget.paused) {
-                console.log('sdsd');
                 getAudioTarget.currentTime = 0
             }
             getAudioTarget.play();
