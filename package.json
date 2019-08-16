@@ -1,6 +1,6 @@
 {
   "homepage": "https://denz-io.github.io/drumpad",
-  "name": "my-app",
+  "name": "drumpad",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
