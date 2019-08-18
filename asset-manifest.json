@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/beatpad/static/css/main.853efd4d.chunk.css",
-    "main.js": "/beatpad/static/js/main.36cb6184.chunk.js",
-    "main.js.map": "/beatpad/static/js/main.36cb6184.chunk.js.map",
+    "main.js": "/beatpad/static/js/main.52c0fffd.chunk.js",
+    "main.js.map": "/beatpad/static/js/main.52c0fffd.chunk.js.map",
     "runtime~main.js": "/beatpad/static/js/runtime~main.68ca6a1d.js",
     "runtime~main.js.map": "/beatpad/static/js/runtime~main.68ca6a1d.js.map",
     "static/js/2.83172970.chunk.js": "/beatpad/static/js/2.83172970.chunk.js",
     "static/js/2.83172970.chunk.js.map": "/beatpad/static/js/2.83172970.chunk.js.map",
     "index.html": "/beatpad/index.html",
-    "precache-manifest.d97d78a0e3b7d7fd8bbc1543ec439751.js": "/beatpad/precache-manifest.d97d78a0e3b7d7fd8bbc1543ec439751.js",
+    "precache-manifest.5929cb151bf5849496507b004ce4a0d2.js": "/beatpad/precache-manifest.5929cb151bf5849496507b004ce4a0d2.js",
     "service-worker.js": "/beatpad/service-worker.js",
     "static/css/main.853efd4d.chunk.css.map": "/beatpad/static/css/main.853efd4d.chunk.css.map",
     "static/media/Bass-Drop.flac": "/beatpad/static/media/Bass-Drop.9ff277af.flac",

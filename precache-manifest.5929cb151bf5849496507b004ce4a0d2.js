@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5f1f2f5e8b82da101c0638adc5e43912",
+    "revision": "9105bba580c7a387dd64f98b5f11a58a",
     "url": "/beatpad/index.html"
   },
   {
-    "revision": "7c235422a0c8ddec941a",
+    "revision": "7716c31f545025f69ccd",
     "url": "/beatpad/static/css/main.853efd4d.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/beatpad/static/js/2.83172970.chunk.js"
   },
   {
-    "revision": "7c235422a0c8ddec941a",
-    "url": "/beatpad/static/js/main.36cb6184.chunk.js"
+    "revision": "7716c31f545025f69ccd",
+    "url": "/beatpad/static/js/main.52c0fffd.chunk.js"
   },
   {
     "revision": "15cad7c95cfea9a3e2d5",
