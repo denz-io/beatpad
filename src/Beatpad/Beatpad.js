@@ -24,25 +24,10 @@ const BeatPad = () => {
     })
 
     document.addEventListener("keydown",(event) => { 
-        triggerAudioOnKeyPress(event);
-        listenTospace(event);
-    });
-
-    const triggerAudioOnKeyPress = (event) => {
-        let getAudioTarget = document.getElementById(event.keyCode)
-        if (getAudioTarget) {
-            if (!getAudioTarget.paused) {
-                getAudioTarget.currentTime = 0
-            }
-            getAudioTarget.play();
-        }
-    }
-
-    const listenTospace = (event) => {
         if (event.code === 'Space') {
             stopPlayback()
         }
-    }
+    });
 
     const stopPlayback = () => {
         audioPack.forEach(item => !document.getElementById(item.keycode).paused && document.getElementById(item.keycode).pause());

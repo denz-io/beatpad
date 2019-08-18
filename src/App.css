@@ -40,7 +40,7 @@ body{
     border-radius: 10px;
 }
 
-.drum-pad-active{
+.active{
     background: rgb(190,194,0);
     background: radial-gradient(circle, rgba(190,194,0,1) 0%, rgba(249,255,0,1) 100%);
     margin: 10px;
