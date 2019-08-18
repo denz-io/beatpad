@@ -11,7 +11,15 @@ import sound10 from '../audiofiles/butterly/Bling-Bling-FX.flac'
 import sound11 from '../audiofiles/butterly/Bass-Drop.flac'
 import sound12 from '../audiofiles/butterly/Butterfly-Clap-01.flac'
 
+import sound13 from '../audiofiles/tiger/Perc_Clap.wav'
+import sound14 from '../audiofiles/tiger/sound013.mp3'
+import sound15 from '../audiofiles/tiger/sound023.wav'
+import sound16 from '../audiofiles/tiger/sound033.wav'
+import sound17 from '../audiofiles/tiger/vocalDrum_tamborine.wav'
+import sound18 from '../audiofiles/tiger/vocalDrum_tom2.wav'
+
 import keyCode from '../AudioSetter/keyCode'
+
 
 let butterflyAudio = [ 
     sound01, 
@@ -28,9 +36,24 @@ let butterflyAudio = [
     sound12
 ]
 
-export const butterfly = keyCode.map((res,key) => {
-    return {
-        ...res,
-        soundfile: butterflyAudio[key]
-    }
-})
+let tigerAudio = [
+    sound13,  
+    sound14,
+    sound15,
+    sound16,
+    sound17,
+    sound18
+]
+
+const mapAudio = (soundPack) => {
+    return  soundPack.map((res,key) => {
+        return {
+            soundfile: res,
+            ...keyCode[key]
+        }
+    })
+}
+
+export const butterfly = mapAudio(butterflyAudio)
+export const tiger = mapAudio(tigerAudio);
+

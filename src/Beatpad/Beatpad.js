@@ -1,7 +1,7 @@
 import React, { useState , useEffect, useCallback } from 'react'
 
 import BeatPaddButton from './BeatPaddButton'
-import { butterfly }  from '../AudioSetter/soundfiles'
+import { butterfly, tiger }  from '../AudioSetter/soundfiles'
 
 const BeatPad = () => {
 
@@ -36,6 +36,8 @@ const BeatPad = () => {
     const getAudioPack = (pack) => {
        if (pack === 'butterfly') {
             return butterfly;
+       } else if (pack === 'tiger') {
+            return tiger;
        }
        return null;
     }
