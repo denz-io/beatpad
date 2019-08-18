@@ -6,17 +6,17 @@ const BeatPaddButton = ({ item }) => {
 
     let audio = useRef();
 
-    const playAudio = () => {
+    const playAudio = (event) => {
         if (audio.current) {
             audio.current.currentTime = 0
             audio.current.play();
+            setIsActive(true);
         }
     }
 
     document.addEventListener("keydown",(event) => { 
         if (event.keyCode === item.keycode) {
            playAudio();
-           setIsActive(true);
         }
     });
 
@@ -28,8 +28,9 @@ const BeatPaddButton = ({ item }) => {
 
     return (
         <Fragment>
-            <button 
-                onClick={playAudio} 
+            <div 
+                onMouseDown={playAudio} 
+                onMouseUp={() => setIsActive(false)}
                 className={`drum-pad ${isActive ? 'active' : null}`} 
                 id={item.id}
             >
@@ -42,7 +43,7 @@ const BeatPaddButton = ({ item }) => {
                     type="audio/mpeg"
                 >
                 </audio> 
-            </button>
+            </div>
         </Fragment>
     )
 }
