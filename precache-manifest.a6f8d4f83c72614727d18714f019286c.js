@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9105bba580c7a387dd64f98b5f11a58a",
+    "revision": "f2ac4d0806895789fafe41d0176634a9",
     "url": "/beatpad/index.html"
   },
   {
-    "revision": "7716c31f545025f69ccd",
+    "revision": "5aa4dc2610b2681fe5f2",
     "url": "/beatpad/static/css/main.853efd4d.chunk.css"
   },
   {
-    "revision": "327d75eb36747cecbd8d",
-    "url": "/beatpad/static/js/2.83172970.chunk.js"
+    "revision": "478af786533cf602f98c",
+    "url": "/beatpad/static/js/2.4e8052e9.chunk.js"
   },
   {
-    "revision": "7716c31f545025f69ccd",
-    "url": "/beatpad/static/js/main.52c0fffd.chunk.js"
+    "revision": "5aa4dc2610b2681fe5f2",
+    "url": "/beatpad/static/js/main.5fcf8572.chunk.js"
   },
   {
     "revision": "15cad7c95cfea9a3e2d5",
@@ -56,6 +56,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/beatpad/static/media/Butterfly-Snare-01.b1347a4c.flac"
   },
   {
+    "revision": "732111774ee2ce151f40bbcb09863772",
+    "url": "/beatpad/static/media/Perc_Clap.73211177.wav"
+  },
+  {
     "revision": "52d45bfa27ce2e72478567da85bed394",
     "url": "/beatpad/static/media/Wings-Snap-01.52d45bfa.flac"
   },
@@ -66,5 +70,25 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ec750b07b39016d35a11d5e93a96ab50",
     "url": "/beatpad/static/media/Wings-Vox-02.ec750b07.flac"
+  },
+  {
+    "revision": "b834127a41d2b3d76bee1fc562c016ea",
+    "url": "/beatpad/static/media/sound013.b834127a.mp3"
+  },
+  {
+    "revision": "fca20d5a8d57f6c2274540303041674a",
+    "url": "/beatpad/static/media/sound023.fca20d5a.wav"
+  },
+  {
+    "revision": "64046655f352b4909586eec63bdf134b",
+    "url": "/beatpad/static/media/sound033.64046655.wav"
+  },
+  {
+    "revision": "ffee9923213562f14d18de20fb966238",
+    "url": "/beatpad/static/media/vocalDrum_tamborine.ffee9923.wav"
+  },
+  {
+    "revision": "6030f8f09a3e258373b71b3f0bfdbc14",
+    "url": "/beatpad/static/media/vocalDrum_tom2.6030f8f0.wav"
   }
 ]);
